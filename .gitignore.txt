@@ -1,3 +1,0 @@
-*.csv
-
-Hotel_Reviews.csv
